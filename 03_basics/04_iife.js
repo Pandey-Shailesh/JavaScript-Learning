@@ -12,7 +12,7 @@
 (()=>{
     console.log(`Server is Started`);  // this is unNamed IIFE 
 })();
-
+// if we write the 2 IIFE  so don't forget the semi-Colon(;)
 
 // this is the eg of UnNamed IIFE ih Passing the parameter 
 ((name)=>{
